@@ -39,7 +39,42 @@ El **Servidor Raptor** ha sido endurecido por el administrador para resistir ata
     -   _Nota: Algunos usuarios pueden ser señuelos o estar deshabilitados._
         
 -   **Contraseña:** Se sabe que la contraseña es débil y se encuentra dentro del **Diccionario del Reto** proporcionado por el profesor.
+
+----------
+💀 **OPERACIÓN RAPTOR: La Ruleta Rusa Digital**
+  **DESCRIPCIÓN:**
+
+⚠️ **ALERTA DE INTELIGENCIA** ⚠️
+
+He interceptado 31 paquetes de datos distintos (`diccionario_usuarios_X.txt` y `diccionario_passwords_X.txt`). Cada uno de ustedes recibirá un par de archivos **ÚNICO y DIFERENTE** al de sus compañeros.
+
+Aquí es donde empieza el juego mental:
+
+🎲 **El Factor Suerte (Tu Peor Enemigo):** Los archivos han sido desordenados aleatoriamente.
+
+-   En el **Archivo #7**, la contraseña correcta podría estar en la **línea 3**. (Nivel: Fácil)
     
+-   En el **Archivo #24**, la contraseña correcta podría estar en la **línea 98**. (Nivel: Pesadilla)
+    
+
+🚫 **La Trampa del Servidor:** El servidor Raptor tiene un sistema de defensa activo (**Fail2Ban**) que **bloqueará tu IP por 1 HORA si fallas 5 veces seguidas**.
+
+Si te tocó un archivo con la contraseña al final y lanzas tu ataque a máxima velocidad... **serás eliminado automáticamente antes de encontrar la clave.**
+
+💀 **REGLAS DE SUPERVIVENCIA:**
+
+1.  **NO COPIES A TU VECINO:** Su archivo es diferente. Si él entra en 10 segundos, es porque tuvo suerte. Si tú intentas ir a su velocidad con un archivo difícil, el Firewall te detectará.
+    
+2.  **Velocidad vs. Estrategia:** ¿Te arriesgarás a lanzar Hydra rápido confiando en tu suerte? ¿O configurarás retardos para ir lento y seguro, aunque te tome más tiempo?
+    
+3.  **Analiza tu munición:** Antes de disparar, abre tus archivos de texto. A veces el ojo humano es más rápido que la fuerza bruta.
+    
+
+**Tu misión:** Identificar cuál de las 31 combinaciones te tocó, vulnerar el puerto XXXX y dejar tu marca antes de que el servidor te expulse.
+
+> _"No es solo hackear. Es saber si hoy la suerte está de tu lado."_
+> _"Tomen un archivo al azar, no hay devoluciones"_
+
 
 ----------
 
